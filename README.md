@@ -1,2 +1,2 @@
 # MFC
-Projects based on Microsoft Foundation Classes
+Test projects based on Microsoft Foundation Classes
